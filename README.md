@@ -31,11 +31,11 @@ Tugas Projek Akhir Semester 4 - Inventory Management System `VOINVENTORY`
 ### Extras : 
 Font Awesome and TCPDF library for export PDF.
 ## 📌 PREVIEW VOINVENTORY  :
-![Login page](https://github.com/user-attachments/assets/929fd717-f272-4f59-bf52-a4bfac776aa3)
-![Register page](https://github.com/user-attachments/assets/8ee96ccc-e8dc-4ae9-b203-5d8e05e8b3ed)
-![Dashboard Inventory](https://github.com/user-attachments/assets/50573d78-7e7d-482f-8fba-8bf9bcc9c849)
-![Add Product](https://github.com/user-attachments/assets/1091564a-1594-4153-8628-f4247c32b563)
-![Dashboard stock in](https://github.com/user-attachments/assets/042844b1-e639-4386-9d5f-9b708825396d)
-![Dashboard stock out](https://github.com/user-attachments/assets/73b7274f-a1a3-4530-b4ac-a51889087cae)
-![Dashboard History](https://github.com/user-attachments/assets/18e36260-2366-4a03-bbef-a45d10fc3f17)
-![Dashboard Profile](https://github.com/user-attachments/assets/ffe1db6b-1cf2-42c4-b88c-01eb5013aa4a)
+![Login page](https://github.com/user-attachments/assets/e50700d6-5203-4748-ad62-57510d00801f)
+![Register page](https://github.com/user-attachments/assets/e0f2050f-0743-4f83-95f3-b6d10227688d)
+![Dashboard Inventory](https://github.com/user-attachments/assets/5bfddbbf-87bd-4dc2-8f8e-d7a3eae795eb)
+![Add Product](https://github.com/user-attachments/assets/d68a9797-54a7-4bac-945d-5e17682494c8)
+![Dashboard stock in](https://github.com/user-attachments/assets/d48eeb57-eddd-4cec-afeb-71ea6f777bcd)
+![Dashboard stock out](https://github.com/user-attachments/assets/f7fcbf3d-9362-43e9-a27c-b7e46d919e2f)
+![Dashboard History](https://github.com/user-attachments/assets/42cd818e-9fcd-4eff-bd52-b396dfad9fc6)
+![Dashboard Profile](https://github.com/user-attachments/assets/b42ee457-5c3e-46ed-9f27-2a376e37e112)
